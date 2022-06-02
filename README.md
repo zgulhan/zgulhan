@@ -5,7 +5,7 @@
 - 🌱 Currently studying on JavaScript!
 
 ## 💻 Technologies 
-![js&react](/1.jpg)![bootstrap&css&html](/2.jpg)
+![js&react](/1.jpg)![bootstrap&css&html](/2.jpg)![3](/6.jpg)
 
 ## 🌐 Connection
 [![LinkedIn](/linkedin.jpg)](https://www.linkedin.com/in/zeynep-dicle-gulhan/)
