@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hi! I am Zeynep ✨
+## I'm a newbie front-end developer 👩‍💻
+- 💡 I have projects mostly on HTML and CSS.
+- 🚀 Bootstrap projects will be added soon.
+- 🌱 Currently studying on JavaScript!
+
+## Technologies
+![js&react](/1.jpg)![bootstrap&css&html](/2.jpg)
+
+## Connection
+[![LinkedIn](/linkedin.jpg)](https://www.linkedin.com/in/zeynep-dicle-gulhan/)
 
 <!--
 **zgulhan/zgulhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
