@@ -4,10 +4,10 @@
 - 🚀 Bootstrap projects will be added soon.
 - 🌱 Currently studying on JavaScript!
 
-## Technologies
+## 💻 Technologies 
 ![js&react](/1.jpg)![bootstrap&css&html](/2.jpg)
 
-## Connection
+## 🌐 Connection
 [![LinkedIn](/linkedin.jpg)](https://www.linkedin.com/in/zeynep-dicle-gulhan/)
 
 <!--
